@@ -1,0 +1,19 @@
+version: 1.0.0
+history:
+  1.0.0:
+    date: '2025-08-28'
+    title: 'Manifest'
+    description: 'Add manifest.'
+plugin: {  }
+sys:
+  -
+    name: mercury
+    version:
+      - 2.111.2
+php:
+  version:
+    - 8.2.0
+author: null
+links: null
+description: ''
+third_part_software: null
